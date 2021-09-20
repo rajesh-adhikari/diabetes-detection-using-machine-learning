@@ -28,3 +28,6 @@ Inorder to execute it :
 1] Write the following command in cmd : controller.py
 
 2] It will start the server and provide an url i.e. "http://127.0.0.1:5000" copy it in browser and see the magic !
+
+#Deployment on Heroku
+Heroku git link:https://git.heroku.com/diabetes-prediction-4.git
